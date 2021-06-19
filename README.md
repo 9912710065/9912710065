@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @9912710065
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m chennu Purna Naga Ravi teja
+- 👀 I’m interested in information technology
+- 🌱 I’m currently learning basics of c programming language and python
+- 💞️ I’m looking to collaborate on traine engineer
+- 📫 How to reach me 9912710065 my number
 
 <!---
 9912710065/9912710065 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
